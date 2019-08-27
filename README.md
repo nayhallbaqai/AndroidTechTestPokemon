@@ -16,12 +16,12 @@ The requirements for the finished application are as follows:
 * The game must present a user with just the image for two cards and ask them which is rarer.
 * A user must never be given two cards with the same rarity to pick from.
 * Card rarity is defined as follows from least rare to most rare:
-..* common
-..* uncommon
-..* rare
-..* rare holo
-..* rare ultra
-..* rare secret
+  * common
+  * uncommon
+  * rare
+  * rare holo
+  * rare ultra
+  * rare secret
 * Tapping the correct card will award the player 1 point.
 * Tapping the incorrect card will have no effect on the user’s score.
 * A user will be informed if they have selected correctly.
@@ -30,4 +30,4 @@ The requirements for the finished application are as follows:
 
 ##### Submission
 
-Please place your submission in a GitHub private repo and add deepmatter-recruitment as a collaborator. You may fork this repo to create your private repo if you wish.
+Please place your submission in a GitHub private repo and add _deepmatter-recruitment_ as a collaborator. You may fork this repo to create your private repo if you wish.
