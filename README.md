@@ -3,7 +3,7 @@ Android Tech Challenge (Pokemon)
 
 This codebase includes a near complete implementation of a card game application. The application is complete with the exception of the RoundFactoryImpl class which is a stub. You must implement the RoundFactoryImpl so that it allows the game to be played.
 
-Tests are included for the class in RoundFactoryImplTest however they are not exhaustive, please feel free to add any tests you feel are necessary. 
+Tests are included for the class in RoundFactoryImplTest; however, they are not exhaustive. You are required to add at least three tests and provide comments in the code to say why you feel the test is required.
 
 _Note: The applications is written in Kotlin, you may change the RoundFactoryImpl and RoundFactoryImplTest to Java if you prefer._
 
@@ -28,7 +28,7 @@ The requirements for the finished application are as follows:
 9. After tapping a card the user will be presented with two new cards.
 10. When a user gains 5 points the user will be shown a success screen.
 
-You are required to complete RoundFactoryImpl to implement points 2 and 3 above.
+You are required to complete RoundFactoryImpl to implement points 2 and 3 above, and you are required to provide the above tests.
 
 ##### Submission
 
