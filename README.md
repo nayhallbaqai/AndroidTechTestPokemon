@@ -32,4 +32,4 @@ You are required to complete RoundFactoryImpl to implement points 2 and 3 above,
 
 ##### Submission
 
-Please place your submission in a GitHub private repo and add _deepmatter-recruitment_ as a collaborator. You may fork this repo to create your private repo if you wish.
+Place your submission in a GitHub private repo and add _deepmatter-recruitment_ as a collaborator. We recommend that you fork this repo to create your private repo.
