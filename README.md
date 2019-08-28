@@ -11,22 +11,22 @@ _Note: The applications is written in Kotlin, you may change the RoundFactoryImp
 
 The requirements for the finished application are as follows:
 
-1 The app must show a loading screen while loading the application’s data.
-2 The app must load a list of Pokémon cards from the above api.
-3 The game must present a user with just the image for two cards and ask them which is rarer.
-4 A user must never be given two cards with the same rarity to pick from.
-5 Card rarity is defined as follows from least rare to most rare:
+1. The app must show a loading screen while loading the application’s data.
+2. The app must load a list of Pokémon cards from the above api.
+3. The game must present a user with just the image for two cards and ask them which is rarer.
+4. A user must never be given two cards with the same rarity to pick from.
+5. Card rarity is defined as follows from least rare to most rare:
   * common
   * uncommon
   * rare
   * rare holo
   * rare ultra
   * rare secret
-6 Tapping the correct card will award the player 1 point.
-7 Tapping the incorrect card will have no effect on the user’s score.
-8 A user will be informed if they have selected correctly.
-9 After tapping a card the user will be presented with two new cards.
-10 When a user gains 5 points the user will be shown a success screen.
+6. Tapping the correct card will award the player 1 point.
+7. Tapping the incorrect card will have no effect on the user’s score.
+8. A user will be informed if they have selected correctly.
+9. After tapping a card the user will be presented with two new cards.
+10. When a user gains 5 points the user will be shown a success screen.
 
 You are required to complete RoundFactoryImpl to implement points 2 and 3 above.
 
